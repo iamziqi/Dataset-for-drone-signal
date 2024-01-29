@@ -1,5 +1,4 @@
 
-
 <h1 align='center'>RF-based Drone Detection
 Enhancement via a Generalized Denoising and
 Interference-Removal Framework</h1>
@@ -9,6 +8,11 @@ Interference-Removal Framework</h1>
   <a target="_blank">Julan&nbsp;Xie &dagger;</a>&ensp;<b>&middot;</b>&ensp;
   <a target="_blank">ZiShu&nbsp;He</a><br>
   University of Electronic Science and Technology of China&emsp;(* Equal Contribution,&dagger; Supervision)
+  <a> Underreviewing... </a>
 </div>
 
-*Dataset and instructions will be soon available.*:fire:
+Official repository of RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework.
+
+# Dataset Descriptions
+2024/1/29: *Dataset and instructions will be soon available.*:fire:
+
