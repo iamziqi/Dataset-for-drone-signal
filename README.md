@@ -15,7 +15,7 @@ Official repository of **RF-based Drone Detection Enhancement via a Generalized 
 
 # News
 
-2024/1/29: *Dataset and instructions will be soon available.*:fire:
+2024/1/29: *Dataset and instructions have been published.
 
 # Dataset Descriptions
 
