@@ -8,14 +8,14 @@ Interference-Removal Framework</h1>
   <a target="_blank" style="color: green">Wei&nbsp;Zhang</a>&ensp;<b>&middot;</b>&ensp;
   <a target="_blank" style="color: green">ZiShu&nbsp;He</a><br>
   University of Electronic Science and Technology of China&emsp;(* Equal Contribution,&dagger; Supervision)<br>
-  <a style="color: brown"> Underreviewing... </a>
+  <a style="color: brown"> Accepted by IEEE Signal Processing Letter </a>
 </div>
 
 Official repository of **RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework**.
 
 # News
 
-2024/1/29: *Dataset and instructions have been published.
+2024/1/29: Dataset and instructions have been published.
 
 # Dataset Descriptions
 
