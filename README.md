@@ -19,7 +19,7 @@ Official repository of **RF-based Drone Detection Enhancement via a Generalized 
 
 # Dataset Descriptions
 
-This dataset is collected using DJI Phantom4 and the drone signals are recorded in urban environments.
+This dataset is collected using DJI Phantom4 and the drone signals are recorded in urban environments. **( Part of the whole dataset)**
 
 The receiving antenna array used is a 6-element uniform circular array with a sampling rate of 60 Msps. The distance from the array to the drone is from 100 meters to 1000 meters, with an interval of 100 meters. Each sample contains received signals on 6 array elements, and the received signals on each array element have $7.5 \times 10^{5}$ time snapshots.
 
