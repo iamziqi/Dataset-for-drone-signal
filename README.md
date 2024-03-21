@@ -8,12 +8,15 @@ Interference-Removal Framework</h1>
   <a target="_blank" style="color: green">Wei&nbsp;Zhang</a>&ensp;<b>&middot;</b>&ensp;
   <a target="_blank" style="color: green">ZiShu&nbsp;He</a><br>
   University of Electronic Science and Technology of China&emsp;(* Equal Contribution,&dagger; Supervision)<br>
-  <a style="color: brown"> Accepted by IEEE Signal Processing Letter </a>
+    <a style="color: brown"> Accepted by <i>IEEE Signal Processing Letter</i></a>
 </div>
 
-Official repository of **RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework**.
+
+Official repository of [**RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework**](https://ieeexplore.ieee.org/document/10475428).
 
 # News
+
+2024/3/21: Our paper can be early accessed.
 
 2024/1/29: Dataset and instructions have been published.
 
@@ -22,4 +25,26 @@ Official repository of **RF-based Drone Detection Enhancement via a Generalized 
 This dataset is collected using DJI Phantom4 and the drone signals are recorded in urban environments. **( Part of the whole dataset)**
 
 The receiving antenna array used is a 6-element uniform circular array with a sampling rate of 60 Msps. The distance from the array to the drone is from 100 meters to 1000 meters, with an interval of 100 meters. Each sample contains received signals on 6 array elements, and the received signals on each array element have $7.5 \times 10^{5}$ time snapshots.
+
+
+
+---
+
+If you find any useful application or inspiration, please kindly cite our paper:
+
+```text
+@ARTICLE{10475428,
+  author={Wang, Ziqi and Cao, Zihan and Xie, Julan and Zhang, Wei and He, Zishu},
+  journal={IEEE Signal Processing Letters}, 
+  title={RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-removal Framework}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Denoise;Interference-removal;Radio frequency signal;Drone detection},
+  doi={10.1109/LSP.2024.3379006}}
+
+```
+
+
 
