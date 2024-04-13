@@ -11,7 +11,7 @@ Interference-Removal Framework</h1>
     <a style="color: brown"> Accepted by <i>IEEE Signal Processing Letter</i></a>
 </div>
 
-$$Corresponding email: julanxie@uestc.edu.cn$$
+**Corresponding email: julanxie@uestc.edu.cn**
 
 
 Official repository of [**RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework**](https://ieeexplore.ieee.org/document/10475428).
