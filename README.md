@@ -15,6 +15,7 @@ Interference-Removal Framework</h1>
 Official repository of [**RF-based Drone Detection Enhancement via a Generalized Denoising and Interference-Removal Framework**](https://ieeexplore.ieee.org/document/10475428).
 
 # News
+2024/4/2: Our paper can be published.
 
 2024/3/21: Our paper can be early accessed.
 
